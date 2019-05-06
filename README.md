@@ -1,2 +1,2 @@
 # andriod-ajax-api
-Homework 4 for Sam lees's andriod devoplement
+Homework 4 for Sam lee's andriod devoplement
